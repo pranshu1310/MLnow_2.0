@@ -1,7 +1,7 @@
 # MLnow_2.0
 Regression using TensorFlow
 
-# Columns:
+#### Columns:
 
 age: age of primary beneficiary
 
@@ -18,5 +18,5 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 
 charges: Individual medical costs billed by health insurance
 
-# Inspiration--
+#### Inspiration--
 Can you accurately predict insurance costs?
